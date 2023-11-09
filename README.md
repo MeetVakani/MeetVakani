@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Meet Vakani</h1>
 <h3 align="center">An avid data analytics enthusiast in Toronto, Canada, on a mission to decipher the data-driven tales of this dynamic city.</h3>
 
-<img align="right" alt="coding" width="400" src="![github gif](https://github.com/MeetVakani/MeetVakani/assets/97325688/969b28b6-9189-4e05-8442-d871e921d078)
+<img align="right" alt="coding" width="400" src="https://github.com/MeetVakani/MeetVakani/assets/97325688/969b28b6-9189-4e05-8442-d871e921d078)
 ">
 
 - 🌱 I’m currently learning **Advanced Analytics, ML, AI etc.**
