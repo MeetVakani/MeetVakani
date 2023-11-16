@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **meetvakani47@gmail.com**
 
-- ⚡ Fun fact **fitness enthusiastic lazy person.**
+- ⚡ Fun fact **fitness enthusiastic lazy person..**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
