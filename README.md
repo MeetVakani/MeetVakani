@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Advanced Analytics, ML, AI etc.**
 
-- 💬 Ask me about **Data**
+- 💬 Ask me about **DATA**
 
 - 📫 How to reach me **meetvakani47@gmail.com**
 
