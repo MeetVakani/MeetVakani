@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Meet Vakani</h1>
+<h1 align="center">Hi, I'm Meet Vakani</h1>
 <h3 align="center">An avid data analytics enthusiast in Toronto, Canada, on a mission to decipher the data-driven tales of this dynamic city.</h3>
 
 - 🌱 I’m currently learning **Advanced Analytics, ML, AI etc.**
